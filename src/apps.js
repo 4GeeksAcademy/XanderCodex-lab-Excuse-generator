@@ -11,5 +11,3 @@ window.onload = function() {
 
     document.querySelector("#excusa").innerHTML = who[randomWho] + " " + action[randomAction]+  " "  + what[randomWhat]+  " "  + when[randomWhen];
 }
-
-//Use comillas para dejar espacios en blanco porque si no se juntaba todo, es una solucion viable o se puede hacer de otra manera?
